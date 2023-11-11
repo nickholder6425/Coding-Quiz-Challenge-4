@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="./assets/css/style.css">
+    <title>Document</title>
+</head>
+<body>
+    <header>
+        <h1>Code Quiz</h1>
+        <p>High Scores</p>
+        <p>Timer: <span id="timer"></span></p>
+    </header>
+    <main>
+        <div id="startScreen">
+            <button id="start">Start</button>
+        </div>
+        <div id="gameScreen" class="hide">
+            <h2 id="question">Insert Question Here</h2>
+            <div class="choices"></div>
+        </div>
+        <div id="endScreen" class="hide">
+            <h2 class="user-score">Your Score Is: <span id="finalScore"></span></h2>
+        </div>
+    </main>
+    <footer></footer>
+    <script src="./assets/js/questions.js"></script>
+    <script src="./assets/js/game.js"></script>
+</body>
+</html>
