@@ -14,4 +14,4 @@ URL: https://nickholder6425.github.io/Coding-Quiz-Challenge-4/
 
 ## Authors and Acknowledgments
 
-. https://github.com/jamierachael/Code-Quiz - for starter code and design
+https://github.com/jamierachael/Code-Quiz - for starter code and design
