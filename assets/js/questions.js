@@ -176,7 +176,7 @@ function allDone() {
 
         if (initials === null) {
 
-            console.log("No value entered!");
+            console.log("No value entered!");
 
         } else {
             var finalScore = {
