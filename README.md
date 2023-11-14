@@ -8,9 +8,9 @@ This challenge was to build a coding quiz with multiple choice questions and col
 
 ![Screenshot-Demo-gif](./assets/images/04-web-apis-homework-demo.gif)
 
-Github:
+Github: https://github.com/nickholder6425/Coding-Quiz-Challenge-4
 
-URL:
+URL: https://nickholder6425.github.io/Coding-Quiz-Challenge-4/
 
 ## Authors and Acknowledgments
 
