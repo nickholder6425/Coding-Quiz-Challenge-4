@@ -37,7 +37,7 @@
 
 
 #clear {
-    background-color: purple;
+    background-color: blue;
     position: relative;
     padding: 10px;
     font-size: 20px;
@@ -78,7 +78,7 @@ h1 {
 }
 
 li {
-    background-color: purple;
+    background-color: black;
     margin-top: 10px;
     padding: 5px 15px;
     width: 80%;
