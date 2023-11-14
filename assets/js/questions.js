@@ -1,29 +1,29 @@
 // Var with array and object for questions 
 var questions = [
     {
-        title: "A very useful tool for used during development and debugging for printing content to the debugger is:",
-        choices: ["Javascript", "terminal / bash", "for loops", "console log"],
-        answer: "console log"
+        title: "Which of the following objects represent parameters of current a function inside any function?",
+        choices: ["Global", "arguments", "this", "Object"],
+        answer: "arguments"
     },
     {
-        title: "The condition in an if / else statement is enclosed within ____.",
-        choices: ["quotes", "curly brackets", "parentheses", "square brackets"],
-        answer: "parentheses"
+        title: "In HTML, semicolons (;) are not used as syntax elements like they are in JavaScript. In HTML, semicolons are not required or used to terminate statements or elements.",
+        choices: ["True", "False"],
+        answer: "True"
     },
     {
-        title: "Arrays in Javascript can be used to store ____.",
-        choices: ["numbers and strings", "other arrays", "booleans", "all of the above"],
-        answer: "all of the above"
+        title: "A variable in JavaScript is declared with which of the following keywords?",
+        choices: ["var", "int", "new", "string"],
+        answer: "var"
     },
     {
-        title: "Commonly used data types DO NOT include:",
+        title: "Primitive data types DO NOT include:",
         choices: ["strings", "booleans", "alerts", "numbers"],
         answer: "alerts"
     },
     {
-        title: "String values must be enclosed within ____ when being assigned to variables.",
-        choices: ["commas", "curly brackets", "quotes", "parenthesis"],
-        answer: "quotes"
+        title: "Which of the following types of routing is supported in Web API?",
+        choices: ["Attribute Routing", "Conventional-based Routing", "All of the above", "None of the above"],
+        answer: "All of the above"
     },
 
 ];
